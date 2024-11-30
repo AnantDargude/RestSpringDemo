@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(225, 243, 245);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+p{
+    text-shadow: 3px 3px grey;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+a {
+    display: inline-block;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: black;
+    color:white;
+    padding: 10px 20px;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+a:hover {
+    background-color: rgb(180, 180, 180);
+    border: 2px solid rgb(180, 180, 180);
+    /* color:white; */
+    color: black;
+}
